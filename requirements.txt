@@ -1,0 +1,11 @@
+mem0ai
+google-generativeai
+qdrant-client
+python-dotenv
+mem0ai
+streamlit
+langchain
+langchain-groq 
+sentence-transformers
+google-genai
+python-dotenv
