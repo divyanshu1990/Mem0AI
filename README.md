@@ -1,0 +1,1 @@
+Mem0 is an intelligent, persistent memory layer for AI agents and LLM-based applications. It acts like a long-term brain for chatbots and assistants, storing durable facts, user preferences, and entity relationships across different conversations and sessions.
